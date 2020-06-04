@@ -12,5 +12,5 @@ Examples on implementing your own custom welcome (or warning) message when a use
 * [Text to ASCII art generator](https://bit.ly/2BsGXe5)
 
 ## Credits
-1. [Online Guide 1](https://bit.ly/3dwBYXV)
-2. [Online Guide 2](https://bit.ly/36UURBw) 
+1. [Customize your Login Screen via Linux's Message of the Day (Ubuntu/CentOS)](https://bit.ly/3dwBYXV) *by Fideloper LLC* 
+2. [Protect SSH Logins with SSH & MOTD Banner Messages](https://bit.ly/36UURBw) *by Ravi Saive*
